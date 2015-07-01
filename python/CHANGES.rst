@@ -4,7 +4,7 @@ Changelog for tchannel.py
 0.8.6 (unreleased)
 ------------------
 
-- No changes yet.
+- Add Fibonacci backoff login into advertise method.
 
 
 0.8.5 (2015-06-30)
